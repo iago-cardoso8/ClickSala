@@ -34,3 +34,5 @@ export const blocosHorarios = [
 ];
 
 export const diasSemana = ["SEGUNDA", "TERÇA", "QUARTA", "QUINTA", "SEXTA"];
+
+export const solicitacoes = [];
